@@ -8,7 +8,8 @@ My name is Daniel David de Oliveira Rios. I work as a nada at nada.
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=D4N1R10S&repo=D4N1R10S&countColorcountColor)
 
 ### Languages & Tools 🛠  
-![Python;R](https://img.shields.io/badge/-Python;R-05122A?style=flat&color=green)&nbsp;  
+![R](https://img.shields.io/badge/-Python;R-05122A?style=flat&color=green)&nbsp;  
+![Python](https://img.shields.io/badge/-Python;R-05122A?style=flat&color=green)&nbsp;  
 
 
 ### Analytics ⚙️
